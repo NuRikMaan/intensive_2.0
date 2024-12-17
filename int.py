@@ -1,3 +1,0 @@
-print("rivet")
-
-import pandas 
